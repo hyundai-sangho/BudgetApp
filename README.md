@@ -2,4 +2,6 @@
 
 1. <https://www.youtube.com/watch?v=OnML-5Mk70o>
 
-2. HTML + CSS + JS
+2. <https://hyundai-sangho.github.io/BudgetApp/>
+
+3. HTML + CSS + JS
