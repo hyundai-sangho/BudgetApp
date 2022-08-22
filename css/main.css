@@ -1,4 +1,5 @@
 .budget-tracker {
+  margin: 0 auto;
   border-collapse: collapse;
   min-width: 750px;
 }
